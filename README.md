@@ -68,7 +68,7 @@ Dari 5 datase diatas, penulis menggunakan variabel anime dan ratin yangg akan di
 - Melakukan overview dataframe dari 5 dataset. Overview datafraem bertujuan melihat mean,median,min,max dan lain lain untuk tipe data yang numerik.
 - Melakukan visualisasi dataset rating dan anime, berikut penjelasan tentang visualisasi 2 variabel tersebut :
 **Visualisasi variabel dataset Rating**
-![Gambar 1](https://i.postimg.cc/MHh3H7n4/newplot.png)
+![Gambar 1](https://i.postimg.cc/02h23jPj/newplot-2.png)
 Pada visualisasi rating diatas bisa dilihat bahwa rating anime paling tinggi berada di rating 5 sejumlah 22.6% dan paling rendah di sekitaran rating 0.5 yang berjumah 1%.
 **Visualisasi variabel dataset Anime**
 ![Gambar 2](https://i.postimg.cc/05TbPztJ/newplot-1.png)
